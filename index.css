@@ -27,6 +27,9 @@ background-size: cover;
 nav a{
 margin-left:30px ;
 }
+nav a:visited{
+  color:blue;
+}
 nav a:hover{
 color: yellow;
 text-decoration: underline;
